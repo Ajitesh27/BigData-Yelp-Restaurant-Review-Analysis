@@ -5,3 +5,6 @@ some valuable insights.We also use Natural language processing to process the
 reviews given by users.We make use of technologies such as hadoop hdfs,Hive and
 Spark to do the analysis and processing.We also try to find the main factors based on
 which people give reviews.
+<br>
+If you can't view the jupyter notebook, please use this link:<br>
+https://nbviewer.jupyter.org/github/Ajitesh27/BigData-Yelp-Restaurant-Review-Analysis/blob/main/BigData.ipynb
